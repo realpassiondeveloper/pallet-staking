@@ -99,4 +99,4 @@ This pallet is compatible with [polkadot version 1.11.0](https://github.com/pari
 
 ## License
 
-The code within this repository is licensed under Apache-2.0 license. See the [LICENSE](./LICENSE) file for more details.
+This repository is licensed under Apache-2.0 license. See the [LICENSE](./LICENSE) file for more details.
