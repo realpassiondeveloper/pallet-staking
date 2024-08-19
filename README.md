@@ -36,9 +36,9 @@ Rewards are distributed so that all stakeholders are incentivized to participate
 
 ### Staking
 
-Any account in the parachain can deposit a stake on a given candidate so that this way it can possess a higher deposit than solely with its own candidacy bond and hence increase its possibilities to be selected as a collator.
+Any account on the parachain can contribute a stake to a specific candidate, thereby increasing that candidate's overall deposit beyond just their own self-bond. This enhanced stake can improve the candidate's likelihood of being chosen as a collator.
 
-If the candidate receives stake from users, it is incentivized to remain online and behave honestly, as this way it will have access to staking rewards, and its stakers will be incentivized to retain the stake, as they would be rewarded.
+When a candidate receives staking contributions from other users, it creates a strong incentive for them to stay online and act with integrity. This behavior is rewarded through staking rewards, encouraging stakers to maintain their stakes with the candidate, as they too will benefit from the rewards distributed.
 
 ### Un-staking
 
